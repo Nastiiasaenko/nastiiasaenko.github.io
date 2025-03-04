@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "Welcome to My Academic Website"
+layout: page
+title: "About Me"
+permalink: /about/
 ---
 
 # 👋 Welcome to My Academic Website!
